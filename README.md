@@ -1,5 +1,5 @@
 # Machine-Learning
-
+Student Scoring System 
 ## 📌 Description
 
 This repository contains a collection of **Machine Learning projects, notebooks, and practice implementations** developed using Python. The main goal of this repository is to demonstrate understanding of core ML concepts such as data preprocessing, model building, evaluation, and prediction.
